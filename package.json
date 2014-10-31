@@ -1,0 +1,29 @@
+{
+  "name": "wargame-rcon",
+  "author": "https://looter.codes",
+  "description": "Command line interface for wargame's remote console.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/looterz/wargame-rcon",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:looterz/wargame-rcon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/looterz/wargame-rcon/issues"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "./lib/cli.js",
+  "bin": {
+    "wargame-rcon": "./bin/wargame-rcon"
+  },
+  "dependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.5.0",
+    "exit": "^0.1.2",
+    "q": "^1.0.1",
+    "underscore": "^1.7.0",
+    "underscore.string": "^2.3.3"
+  }
+}
