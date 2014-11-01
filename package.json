@@ -2,7 +2,7 @@
   "name": "wargame-rcon",
   "author": "https://looter.codes",
   "description": "Command line interface for wargame's remote console.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/looterz/wargame-rcon",
   "repository": {
     "type": "git",
