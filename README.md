@@ -1,3 +1,5 @@
+### No longer maintained.
+
 ## wargame-rcon
 
 Command line interface for Wargame's Server Rcon protocol.
