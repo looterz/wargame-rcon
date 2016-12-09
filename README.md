@@ -1,4 +1,4 @@
-### No longer maintained.
+# This project is no longer maintained.
 
 ## wargame-rcon
 
